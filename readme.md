@@ -8,7 +8,9 @@
 ## 方法二：
 ### 直接运行carwl.exe
 ### 如果你有棋谱可以先执行方法一的第一步，然后： .\sgf2gif.exe 你棋谱所在的文件夹
-
+# 视频教程
+    https://www.bilibili.com/video/BV1cD42137R4/
+    
 [CrawlingTargets]
 #详见https://www.101weiqi.com/questionlib/  
 classification=其他分类题目  
