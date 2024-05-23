@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Manifest Include="res\xpstyle.manifest" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="FileFinder.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\Quantize.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="ReConfig.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="sgf2gif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\simplexnoise1234.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\tif_xfile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximawnd.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximatran.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\xmemfile.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximath.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximasel.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximapal.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximalyr.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximalpha.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximaint.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximainfo.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximahist.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximagif.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximage.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximaenc.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximadsp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="3rdpart\CxImage\ximabmp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="StringWString.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3rdpart\CxImage\stdint.h" />
+    <ClInclude Include="include\FileFinder.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\StringWString.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+    <ClInclude Include="include\ReConfig.h">
+      <Filter>src\include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="res\sgf2gif.cn.rc" />
+    <ResourceCompile Include="res\sgf2gif.en.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="3rdpart\CxImage\cximage_license.txt" />
+    <None Include="3rdpart\readme.txt" />
+    <None Include="res\sgf2gif.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{e944901e-a548-4378-9939-68adc27d09b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\include">
+      <UniqueIdentifier>{4852d84e-92f6-4e19-af88-7bffa658750d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

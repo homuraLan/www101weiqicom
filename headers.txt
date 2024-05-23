@@ -1,0 +1,32 @@
+Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Encoding:
+gzip, deflate, br, zstd
+Accept-Language:
+en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
+Cache-Control:
+max-age=0
+Connection:
+keep-alive
+Cookie:
+csrftoken=45nifKPD8ezfNZgMwzpkG7G39TtLUgJsLPBUH2W7FbW62CwtH5lu8R3k70s0rKVP; sessionid=qlhafyoet6rhhb269jhw8wu7z1uwtrzl; Hm_lvt_13a338d58a330cc6f97cd0c32cf6dd47=1715080603,1715182064,1716391716,1716477622; Hm_lpvt_13a338d58a330cc6f97cd0c32cf6dd47=1716477622
+Host:
+www.101weiqi.com
+Sec-Ch-Ua:
+"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"
+Sec-Ch-Ua-Mobile:
+?0
+Sec-Ch-Ua-Platform:
+"Windows"
+Sec-Fetch-Dest:
+document
+Sec-Fetch-Mode:
+navigate
+Sec-Fetch-Site:
+none
+Sec-Fetch-User:
+?1
+Upgrade-Insecure-Requests:
+1
+User-Agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
